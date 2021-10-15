@@ -1,0 +1,2 @@
+# RegEx Simulator
+This project simulates the behavior of a regular expression to determine whether a string is in a particular language. The program builds an abstract syntax tree based on the regular expressions defined in the regex txt files and then uses an algorithm to convert this to an equivalent nfa. The function from project 2 (nfa simulator) is then called to similarly verify the string from there.
